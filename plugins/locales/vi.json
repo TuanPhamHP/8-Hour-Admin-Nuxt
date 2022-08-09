@@ -1,0 +1,192 @@
+{
+  "header": {
+    "syncData": "Đồng bộ dữ liệu",
+    "userAccount": "Tài khoản",
+    "update": "Cập nhật",
+    "logout": "Đăng xuất",
+    "appVersion": "Phiên bản",
+    "language": "Ngôn ngữ"
+  },
+  "button": {
+    "filter": "Lọc",
+    "reset": "Thiết lập lại",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "create": "Tạo mới",
+    "update": "Cập nhật",
+    "selectAll": "Chọn tất cả",
+    "addUser": "Thêm người dùng",
+    "addNewUser": "Thêm thành viên mới",
+    "addNewReceiver": "Thêm người nhận",
+    "addAppUser": "Thêm người truy cập"
+  },
+  "table": {
+    "mtySearchData": "Không tìm thấy kết quả phù hợp",
+    "mtyPlainData": "Hiện chưa có dữ liệu"
+  },
+  "snackbar": {
+    "getNewsFail": "Có lỗi xảy ra khi lấy danh sách bản tin. Liên hệ IT để được trợ giúp.",
+    "getNewsLikesFail": "Có lỗi xảy ra khi lấy danh sách like bản tin. Liên hệ IT để được trợ giúp.",
+    "getCompaniesFail": "Có lỗi xảy ra khi lấy danh sách công ty. Liên hệ IT để được trợ giúp.",
+    "getDepartmentsFail": "Có lỗi xảy ra khi lấy danh sách phòng ban. Liên hệ IT để được trợ giúp.",
+    "getPositionsFail": "Có lỗi xảy ra khi lấy danh sách chức danh. Liên hệ IT để được trợ giúp.",
+    "getApplicationsFail": "Có lỗi xảy ra khi lấy danh sách ứng dụng. Liên hệ IT để được trợ giúp.",
+    "getUsersFail": "Có lỗi xảy ra khi lấy danh sách người dùng. Liên hệ IT để được trợ giúp.",
+    "getUserGroupFail": "Có lỗi xảy ra khi lấy danh sách nhóm người dùng. Liên hệ IT để được trợ giúp.",
+    "getDetailUserGroupFail": "Có lỗi xảy ra khi lấy chi tiết nhóm người dùng. Liên hệ IT để được trợ giúp.",
+    "getNewsCommentsFail": "Có lỗi xảy ra khi lấy danh sách bình luận. Liên hệ IT để được trợ giúp.",
+
+    "createUserGroupSuccess": "Tạo mới nhóm người dùng thành công",
+    "createNewsSuccess": "Đăng bản tin thành công",
+    "createPositionSuccess": "Tạo mới chức danh thành công",
+    "createDepartmentSuccess": "Tạo mới bộ phận thành công",
+    "createUserSuccess": "Tạo mới người dùng thành công",
+
+    "createUserGroupFail": "Có lỗi xảy ra khi tạo mới nhóm người dùng. Liên hệ IT để được trợ giúp.",
+    "createNewsFail": "Có lỗi xảy ra khi đăng bản tin. Liên hệ IT để được trợ giúp.",
+    "createDepartmentFail": "Có lỗi xảy ra khi tạo bộ phận. Liên hệ IT để được trợ giúp.",
+    "createPositionFail": "Có lỗi xảy ra khi tạo chức danh. Liên hệ IT để được trợ giúp.",
+    "createUserFail": "Có lỗi xảy ra khi tạo người dùng. Liên hệ IT để được trợ giúp.",
+
+    "updateUserGroupSuccess": "Cập nhật danh sách nhóm người dùng thành công",
+    "updateNewsSuccess": "Chỉnh sửa bản tin thành công",
+    "updatePositionSuccess": "Cập nhật thông tin chức danh thành công",
+    "updateUserSuccess": "Cập nhật thông tin người dùng thành công",
+    "updateApplicationsSuccess": "Cập nhật quyền thành công",
+    "updateApplicationUsersSuccess": "Cập nhật danh sách người dùng thành công",
+
+    "updateUserGroupFail": "Có lỗi xảy ra khi cập nhật danh sách nhóm người dùng. Liên hệ IT để được trợ giúp.",
+    "updateNewsFail": "Có lỗi xảy ra khi chỉnh sửa bản tin. Liên hệ IT để được trợ giúp.",
+    "updatePositionFail": "Có lỗi xảy ra khi cập nhật chức danh. Liên hệ IT để được trợ giúp.",
+    "updateUserFail": "Có lỗi xảy ra khi cập nhật người dùng. Liên hệ IT để được trợ giúp.",
+    "updateApplicationsFail": "Có lỗi xảy ra khi cập nhật quyền người dùng. Liên hệ IT để được trợ giúp.",
+    "updateApplicationUsersFail": "Có lỗi xảy ra khi cập nhật danh sách người dùng. Liên hệ IT để được trợ giúp.",
+
+    "removeGroupSuccess": "Xóa nhóm người dùng thành công",
+    "resetPasswordSuccess": "Reset mật khẩu thành công",
+    "removePositionSuccess": "Xóa chức danh thành công",
+    "removeCompanySuccess": "Xóa công ty thành công",
+    "removeDepartmentSuccess": "Xóa bộ phận thành công",
+    "removeCommentsSuccess": "Xóa bình luận thành công",
+
+    "removeGroupFail": "Xóa nhóm người dùng thất bại",
+    "removePositionFail": "Xóa chức danh thất bại",
+    "removeDepartmentFail": "Có lỗi xảy ra khi xóa bộ phận. Liên hệ IT để được trợ giúp.",
+    "removeCompanyFail": "Có lỗi xảy ra khi xóa công ty. Liên hệ IT để được trợ giúp.",
+    "resetPasswordFail": "Có lỗi xảy ra khi reset mật khẩu. Liên hệ IT để được trợ giúp.",
+    "removeCommentsFail": "Có lỗi xảy ra khi xóa bình luận. Liên hệ IT để được trợ giúp.",
+
+    "reportCommentSuccess": "Báo cáo bình luận thành công",
+
+    "reportCommentFail": "Có lỗi xảy ra khi báo cáo bình luận. Liên hệ IT để được trợ giúp.",
+
+    "handlerReportFail": "Có lỗi xảy ra khi xử lý báo cáo. Liên hệ IT để được trợ giúp.",
+    "handlerReportSuccess": "Xử lý báo cáo thành công",
+
+    "revokeNewsFail": "Có lỗi xảy ra khi thu hồi bản tin. Liên hệ IT để được trợ giúp.",
+    "revokeNewsSuccess": "Thu hồi bản tin thành công",
+
+    "fileOverSizeLimit": "File bạn chọn quá lớn."
+  },
+  "title": {
+    "addUserTitle": "Thêm thành viên mới",
+    "addUserPositionTitle": "Thêm người dùng sử dụng chức danh",
+    "userCounter": "Danh sách thành viên",
+    "receiverCounter": "Người nhận",
+    "createGroupTitle": "Tạo nhóm người dùng",
+    "updateGroupTitle": "Chỉnh sửa nhóm người dùng"
+  },
+
+  "sidebar": {
+    "news": "Bản tin",
+    "users": "Nguời dùng",
+    "userCompany": "Cơ cấu công ty",
+    "userDepartment": "Bộ phận",
+    "userPosition": "Chức danh",
+    "userGroup": "Nhóm nguời dùng",
+    "userApplication": "Phân quyền truy cập hệ thống",
+    "schedules": "Lịch họp"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "userTabTitle": "Người dùng",
+    "groupUserTabTitle": "Nhóm người dùng",
+    "detailHeader": "Thông tin người dùng",
+    "detailBody": "Thông tin cá nhân",
+    "detailPosition": "Vị trí công việc",
+    "detailManager": "Người quản lý",
+    "detailEmail": "Email",
+    "detailPhone": "Số điện thoại",
+    "detailAddress": "Địa chỉ thường trú",
+    "detailDOB": "Ngày sinh"
+  },
+  "groupContact": {
+    "createTitle": "Tạo nhóm người dùng",
+    "users": "Thành viên"
+  },
+  "logout": {
+    "title": "Đăng xuất",
+    "message": "Bạn chắc chắn muốn đăng xuất chứ?",
+    "cancelBtn": "Hủy",
+    "approveBtn": "Đồng ý"
+  },
+  "tooltip": {
+    "update": "Cập nhật",
+    "remove": "Xóa",
+    "revoke": "Thu hồi",
+    "info": "Chi tiết",
+    "detail": "Chi tiết",
+    "advanceFilter": "Bộ lọc nâng cao",
+    "addNew": "Thêm mới",
+    "addPosition": "Thêm chức danh",
+    "updateAppUsers": "Cập nhật người dùng",
+    "typingSend": "Gửi",
+    "typingPhoto": "Ảnh",
+    "typingEmoji": "Biểu tượng"
+  },
+  "placeholder": {
+    "textSearch": "Tìm kiếm",
+    "newsTextSearch": "Tìm kiếm bản tin",
+    "newsComments": "Viết bình luận...",
+    "groupName": "Tên nhóm",
+    "reportComment": "Lý do"
+  },
+  "search": {
+    "newsResult": "kết quả phù hợp"
+  },
+  "confirmDialog": {
+    "cancelBtnTextNormal": "Hủy",
+    "confirmBtnTextNormal": "Đồng ý",
+    "confirmReportBtnText": "Báo cáo",
+    "reportComment": "Báo cáo bình luận",
+    "removeApp": "Xóa quyền truy cập",
+    "removeCompany": "Xóa công ty",
+    "removeCommentTitle": "Xóa bình luận",
+    "removeCommentMsg": "Bạn có chắc chắn muốn xóa bình luận này không?",
+    "removeAppPermission": "Bạn có chắc chắn muốn xoá quyền truy cập không?",
+    "revokeNewsTitle": "Thu hồi bản tin",
+    "revokeNewsMsg": "Bạn có chắc chắn muốn thu hồi bản tin này không?",
+    "removeGroupTitle": "Xóa nhóm người dùng",
+    "removeGroupMsg": "Bạn có chắc chắn muốn xóa nhóm này không?"
+  },
+  "news": {
+    "hold": "Giữ lại",
+    "remove": "Xóa",
+    "like": "Lượt thích",
+    "likeBtn": "Thích",
+    "replyBtn": "Trả lời",
+    "comment": "Bình luận",
+    "commentBtn": "Bình luận",
+    "otherFiles": "Tài liệu khác",
+    "colapse": "Thu gọn",
+    "otherLinks": "Link khác",
+    "textExpand": "Xem thêm",
+    "textColapse": "Thu gọn",
+    "loadMoreComment": "Xem thêm bình luận...",
+    "loadMoreChildComment": "Xem thêm phản hồi...",
+    "newComment": "Viết bình luận"
+  },
+  "reaction": {
+    "listLiked": "Danh sách người thích"
+  }
+}
